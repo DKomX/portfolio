@@ -13,8 +13,8 @@ header {
 }
 
 .top-image, .intro-image {
-  max-width: 300px;
-  width: 80%;
+  max-width: 210px;
+  width: 70%;
   height: auto;
   margin: 1rem 0;
 }
