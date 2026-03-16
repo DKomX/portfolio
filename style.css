@@ -12,11 +12,20 @@ header {
   padding: 2rem 1rem;
 }
 
-.top-image, .intro-image {
-  max-width: 200px;
-  width: 50%;
+/* Prva slika – malo veća */
+.top-image {
+  max-width: 650px; /* povećano s 600px */
+  width: 90%;
   height: auto;
   margin: 1rem 0;
+}
+
+/* Druga slika – još manja, ispod prve */
+.intro-image {
+  max-width: 150px; /* smanjeno s 210px */
+  width: 60%;
+  height: auto;
+  margin: 0.5rem 0 1rem 0;
 }
 
 h1 {
