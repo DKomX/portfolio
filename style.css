@@ -19,13 +19,13 @@ header {
 }
 
 .top-image {
-  max-height: 35vh; /* ograničena visina da stane na ekran */
+  max-height: 25vh; /* smanjeno s 35vh */
   width: auto;
   margin: 1rem 0;
 }
 
 .intro-image {
-  max-height: 15vh; /* manja, ispod prve */
+  max-height: 15vh; /* ostaje isto */
   width: auto;
   margin: 0.5rem 0 1rem 0;
 }
